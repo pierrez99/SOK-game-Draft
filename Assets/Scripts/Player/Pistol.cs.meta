@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 63f0fa692d7cf084d9ed14c8cd903c9d
+timeCreated: 1450949076
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pistol: {instanceID: 0}
+  - pistolBullet: {fileID: 122274, guid: 79e3ba1ac40c0d54880ae2dd3e6434ed, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
